@@ -1,1 +1,1 @@
-# mlops-zoomcamp
+# mlops-zoomcamp 2025
